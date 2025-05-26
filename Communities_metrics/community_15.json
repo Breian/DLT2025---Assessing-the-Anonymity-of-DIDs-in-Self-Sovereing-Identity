@@ -1,0 +1,21 @@
+{
+  "15": {
+    "number_of_nodes": 2,
+    "number_of_edges": 1,
+    "density": 1.0,
+    "clustering_coefficient": 0.0,
+    "assortativity_coefficient": NaN,
+    "degree_centrality": {
+      "to": 1.0,
+      "from": 1.0
+    },
+    "betweenness_centrality": {
+      "to": 0.0,
+      "from": 0.0
+    },
+    "closeness_centrality": {
+      "to": 1.0,
+      "from": 1.0
+    }
+  }
+}

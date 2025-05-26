@@ -1,0 +1,122 @@
+{
+    "0": {
+        "number_of_nodes": 12,
+        "number_of_edges": 11
+    },
+    "1": {
+        "number_of_nodes": 2519,
+        "number_of_edges": 3135
+    },
+    "10": {
+        "number_of_nodes": 328,
+        "number_of_edges": 385
+    },
+    "11": {
+        "number_of_nodes": 2775,
+        "number_of_edges": 3568
+    },
+    "12": {
+        "number_of_nodes": 50,
+        "number_of_edges": 50
+    },
+    "13": {
+        "number_of_nodes": 4607,
+        "number_of_edges": 5573
+    },
+    "14": {
+        "number_of_nodes": 1209,
+        "number_of_edges": 1307
+    },
+    "16": {
+        "number_of_nodes": 1728,
+        "number_of_edges": 1945
+    },
+    "17": {
+        "number_of_nodes": 73,
+        "number_of_edges": 73
+    },
+    "18": {
+        "number_of_nodes": 329,
+        "number_of_edges": 427
+    },
+    "19": {
+        "number_of_nodes": 50,
+        "number_of_edges": 50
+    },
+    "2": {
+        "number_of_nodes": 1052,
+        "number_of_edges": 1139
+    },
+    "20": {
+        "number_of_nodes": 45,
+        "number_of_edges": 45
+    },
+    "21": {
+        "number_of_nodes": 279,
+        "number_of_edges": 284
+    },
+    "22": {
+        "number_of_nodes": 3034,
+        "number_of_edges": 12935
+    },
+    "23": {
+        "number_of_nodes": 27,
+        "number_of_edges": 26
+    },
+    "24": {
+        "number_of_nodes": 33,
+        "number_of_edges": 33
+    },
+    "25": {
+        "number_of_nodes": 38,
+        "number_of_edges": 38
+    },
+    "26": {
+        "number_of_nodes": 246,
+        "number_of_edges": 247
+    },
+    "27": {
+        "number_of_nodes": 58,
+        "number_of_edges": 58
+    },
+    "28": {
+        "number_of_nodes": 52,
+        "number_of_edges": 52
+    },
+    "29": {
+        "number_of_nodes": 155,
+        "number_of_edges": 154
+    },
+    "3": {
+        "number_of_nodes": 373,
+        "number_of_edges": 398
+    },
+    "30": {
+        "number_of_nodes": 48,
+        "number_of_edges": 47
+    },
+    "4": {
+        "number_of_nodes": 4963,
+        "number_of_edges": 8459
+    },
+    "5": {
+        "number_of_nodes": 1903,
+        "number_of_edges": 2387
+    },
+    "6": {
+        "number_of_nodes": 772,
+        "number_of_edges": 805
+    },
+    "7": {
+        "number_of_nodes": 1704,
+        "number_of_edges": 1763
+    },
+    "8": {
+        "number_of_nodes": 1534,
+        "number_of_edges": 1740
+    },
+    "9": {
+        "number_of_nodes": 1729,
+        "number_of_edges": 1950
+    }
+}
