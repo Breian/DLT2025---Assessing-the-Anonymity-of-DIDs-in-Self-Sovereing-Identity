@@ -1,0 +1,64 @@
+{
+  "0xdca7ef03e98e0dc2b855be647c39abe984fcf21b": {
+    "source": {},
+    "target": {
+      "Change Owner": 3194,
+      "Set Attribute": 740,
+      "Add Delegate": 10,
+      "Set Attribute Signed": 16,
+      "Revoke Attribute": 7
+    }
+  },
+  "0x7a250d5630b4cf539739df2c5dacb4c659f2488d": {
+    "source": {},
+    "target": {
+      "Swap Exact Tokens For ETH": 7866,
+      "Swap Exact Tokens For Tokens": 7927,
+      "Swap ETH For Exact Tokens": 2231,
+      "Swap Exact ETH For Tokens": 5813,
+      "Swap Tokens For Exact Tokens": 633,
+      "Swap Tokens For Exact ETH": 670,
+      "Swap Exact Tokens For Tokens Supporting Fee On Transfer Tokens": 219,
+      "Remove Liquidity With Permit": 250,
+      "Remove Liquidity ETH With Permit": 630,
+      "Add Liquidity ETH": 1042,
+      "Swap Exact Tokens For ETH Supporting Fee On Transfer Tokens": 772,
+      "Add Liquidity": 376,
+      "Remove Liquidity ETH With Permit Supporting Fee On Transfer Tokens": 27,
+      "Remove Liquidity ETH": 23,
+      "Swap Exact ETH For Tokens Supporting Fee On Transfer Tokens": 28,
+      "Transfer": 10,
+      "Remove Liquidity": 4
+    }
+  },
+  "0x445b774c012c5418d6d885f6cbfeb049a7fe6558": {
+    "source": {},
+    "target": {
+      "Apply Signed With Attribute And Permit": 429,
+      "Submit Votes": 806,
+      "Apply Signed With Attribute": 448,
+      "Challenge": 290,
+      "Member Exit": 5,
+      "Resolve Challenge": 359
+    }
+  },
+  "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+    "source": {},
+    "target": {
+      "Transfer": 4641,
+      "Approve": 3810,
+      "Permit": 4,
+      "Transfer From": 1,
+      "Increase Allowance": 1
+    }
+  },
+  "0x6b175474e89094c44da98b954eedeac495271d0f": {
+    "source": {},
+    "target": {
+      "Approve": 3096,
+      "Transfer": 1733,
+      "Permit": 1,
+      "Mint": 1
+    }
+  }
+}
