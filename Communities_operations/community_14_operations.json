@@ -1,0 +1,1060 @@
+{
+  "14": [
+    {
+      "sourceDID": "0x5006f870ec5f93fdb13b2b727cb70c50e79195d7",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 8
+    },
+    {
+      "sourceDID": "0x2310ce0fb8461625e4ec15b0befa4a18ef49a51b",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xf5aa2c667b0b26fd67ddc782dafd8242c0b4ab9a",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x6b9abf2871c287261da5b12611498e8d534a7d9f",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "malikaiimask.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xfcc6bc9d3d5fcbfe6ceb548074dc2ac3be41b537",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "bur0xvault.eth",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0xd6ed99e289bba3c9678ce52ed38d2607016d1ed7",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x1d671d1b191323a38490972d58354971e5c1cd2a",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "andreitr.eth",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x9a66be55e24654cba203e9b170b48bb302449289",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xed237bbe7ab8608d1b992ff22fe485bb8055f956",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x9e540089e5d1f179959e1806277e0e0ada2910c1",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x75475ab1bb38c9752ee49ac91426eb0edaa0b806",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x91adf14f4c0782634e04dfc6e9be16d950aa4daa",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Coinsquare 26",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x7bf5f796e22e908e32068b42f6e1e7e2a2ffce55",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x5206f1a6660038b64d69fe101b995f9058f32cfb",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xf247db50c81e576542c4e9463121feac8ec0f0ff",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x65d2ea14f0f8b3b1443386b43947e8d535b90de8",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x5d940c52ecaaefdfffc0f5ca2dec6b8d451e91dd",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xf9555236dea7940a21c0f271fa2b004af06b0fca",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xcb42ac441fcade3935243ea118701f39aa004486",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "callum.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x5a4cd185bfe086b3dae993dca2448914fb4be03d",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x5ee0ffaac9f485b6b6dec9965efdcea92b1c82d5",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "zaraclarke.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x2a7ee44494e5efe3d31c606c51e030a5adac1011",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "myandroid.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xfb5beb0145528408d9460888ff075f92f3fe9c0b",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "mrf0x.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xe67b8ac0ccf95c6ebdd2f8800246d73ff5058932",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "carlcortright.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x1ec4de886d40d487366cde7664767db1df6a02e7",
+      "targetDID": "0xbe1088d87f8a1c5ccb210fd7912c09885657e126",
+      "sourceNametag": "pulsechaindotcom.eth",
+      "targetNametag": "shingen.eth",
+      "operation": "Transfer*",
+      "count": 25
+    },
+    {
+      "sourceDID": "0xbe81cca2fc9f28e24ede0363ddfcdcba31ab1e3f",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "mckain.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x3dc1b1a370b66140310e5ed286a6258e747d62dc",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x814c58a510bea4daecdc287e6a7dbf01f7c5fdec",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x4d828d6f643308cbf16ba7a67a676a2c2938acb2",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x85ad9d1fcf50b72255e4288dca0ad29f5f509409",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x9f9c8414b4b09912bbeb19b09016035ebdd07a50",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x36c03898b1b4c5531cf5eef0a8f90130b4fba34b",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x2d14cbba258a9754e84b75786c1d81518861eb82",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x04a108667c567cf0a73cb8abb59a8d3f28602040",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x3c7a9ffe4be34c66a3d6d4f2bdd82d0c219509db",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x379c542c9cac04522a20e81c005dab81e24fdd93",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x1600fb10062bed253e34cb11dea725a8ecc2d7df",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x65013c3379b3da439d3c9cedfec6354c71bc3051",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x4717a243d792f10b35ad46c381adda36914138c2",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer*",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xd690188f96d9d8501a2b1c91edc0bb80ee69cb07",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x5a00bbccca8916baa2511418b1a55c21c67a86c5",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x965b25cc6560648070604d599a9af1805912a8a3",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x51df7a457ae235225c740d85b6a65573ba81b211",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xfcedc13c1dd6ed4cc2c063042bfa98ff0640c88e",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "mattwright.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x6527e7e951fffbb719bc94e7068ddf66c7757a97",
+      "targetDID": "0xbe1088d87f8a1c5ccb210fd7912c09885657e126",
+      "sourceNametag": "Unknown",
+      "targetNametag": "shingen.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x59171b87817c5f07157066bd5284707a711229b3",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "fndcurator.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 10
+    },
+    {
+      "sourceDID": "0x4fc02c60f9b7d5ab78969d5eb88ef5ac0f5cca62",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "truongdatanh.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x343792a12d2affc4cefd876db360109c2a909363",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "keegs.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x46301f7e700be9cffce3e5e142a2244df3f2d4f2",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "coopahmirror.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 6
+    },
+    {
+      "sourceDID": "0x6ed9500aa75638688645053996ff8f6f8fbe8607",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x5ee905e7301f4139b21622c76e5f41ee2ecc1ffd",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x7a1c982f86f1a70345b20033b147de67aa267928",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xde4931fab1e93c24e4936e7957006b8fe49987fe",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xf7218d6dfcc349c9ba3833d3a7f25c986885adba",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xe40f80618324c814cd444434670a44ba4583ae38",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x6c6c0670739343fbd07d500f741376e4a6fc3016",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xc7977502f001f81989793f665f67ef15b9e5bf89",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x5b3d86471ea9acb966fb5adbca77ecdbfd745a67",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x00a17154966476908c643a9b2ef911b620462a58",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xe586196ec79bdf9054eb7756227b20a3dd800e0a",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x5b744c0bac1c6025767f8c1c4956be5086596640",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xdd601c2bfb8c95688bdb25140be175d2c324504f",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x0587d29d23127e441f4dff489c1f7f8e3a507841",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xb6aac3b56ff818496b747ea57fcbe42a9aae6218",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "QuadrigaCX 2",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x7c32e74278f7c1348885d1b4ce96377260fe1cd0",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x9555d83c1d6da116bca8bffa3b1640690490ce57",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x1a4caecd5b177fb461430de0159bd5769c85f2b9",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xcaa0d483d0d7f2eaaac94d67b83672ae1d83d839",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x64714352ceb29e114146ccc1dafa2aa0231a1d68",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x575ef77b6e3bf78056f514fe519eadc54add8fba",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xbabdb38a1182520b036ffe6c060cb0acced5fff4",
+      "targetDID": "0x5bd2b53cb6b51b4bda9a23ef46b76a501ad12e63",
+      "sourceNametag": "Unknown",
+      "targetNametag": "yfolla.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0xfc4099ef10cc6255e8662ef85cf82067a7f2e3fd",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xfbb6d662eccb30e8cd9fb92622e1ea53704e4489",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x56fae96ebe18bf1649294e172eb170a34edb8cc4",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xa23bc852b5f0ed9ccabc955a28066f9c4b652734",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "sophiab.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3b3525f60eeea4a1ef554df5425912c2a532875d",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "dame.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer*",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x1e341aa44c293d95d13d778492d417d1be4e63d5",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "blockchainbrett.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x373b7720cb47ef18af916c1acc175b97ddb2f7dc",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x189298052cf4661f5a494d5897767e4c3e84ce21",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0xbcefc4906b443e4db64e2b00b9af2c39e76c785c",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "danielallan.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x96acf191c0112806f9709366bad77642b99b21a9",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "c7d.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x74667801993b457b8ccf19d03bbbaa52b7fff43b",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "levy.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xd1a1c136619a092b554cc699ae15e4146f5d2f49",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x58962589b2b6fa8c035853a0f7425476cd1c77b7",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0xf60c2ea62edbfe808163751dd0d8693dcb30019c",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Binance US 3",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 6
+    },
+    {
+      "sourceDID": "0xf9a1cc799186e5a25a7acb91fa9dcfc9c9b694fe",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "kevingeorge.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x7843cd3d61bee45530b1e6957cdd4aa5fe539207",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "robertcap.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xd3e9d60e4e4de615124d5239219f32946d10151d",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x2776b58d3074b7ed1c3a6d6e8a91c2494c1f8712",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x0a1d8335166a6b1acfd43629d19af2275961d52d",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x98d539ae90481e921fd9fb826500f2af06337555",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "jamesross.eth",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x20dc5fdb75f3b673186833a1e4f05b52003aff39",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x4cadf861c9d249272a22e886e5c28abed4064481",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3a3359c8d8715afd31e667027986391debfc4011",
+      "targetDID": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "sourceNametag": "Unknown",
+      "targetNametag": "james.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xfe6c92d283fb88c6a1cbebac4ef33b1cafd118d6",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "aubreystrobel.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x335ffd9092e2788bbb54744c1f239bc624511c67",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x57b1415c4aff6a4aeba78875ab489ab4dae32e4a",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "defihope.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xe6ee114237f52fe0c59a6ac36b441c1fbe5dbc62",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "deezdao.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xbb3f043290841b97b9c92f6bc001a020d4b33255",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "mikeybitcoin.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x2ccd94e5b78d667c0f4f16c62d257932fee79443",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "farrar.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x106fc92125e9d44d5bd71fb15abcb2186ac86b79",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x1ec4de886d40d487366cde7664767db1df6a02e7",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "pulsechaindotcom.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer*",
+      "count": 25
+    },
+    {
+      "sourceDID": "0x054c122109b3c658ef2780c9ef6bd0b80818dab8",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x0106510abc8c94af2aa92ef0ae4468c3e408f56c",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Moonopoly: Deployer 1",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x5c6cb98ce5ea477bea56e10c5295f2ce6db491de",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x5eeec4656d5883eec2f34715a5b2ee1d008dfbb8",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "ainiod.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x2399732624a4008f20280a83b8189980d8776eda",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer*",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x5090c4fead5be112b643bc75d61bf42339675448",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "chaim.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x61189da79177950a7272c88c6058b96d4bcd6be2",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Binance US",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 13
+    },
+    {
+      "sourceDID": "0x043606386978ee53c2518ca2c7c7195e0d0306b6",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x18bef73014f4b240ae46a30ed991b263c1d907d1",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x060648f71a87b7e697f69572b7f5196f1ba48766",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x93925520c91c3c7ff095af4788351a57b3bd4f13",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x148e2ed011a9eaaa200795f62889d68153eeacde",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x34a971ca2fd6da2ce2969d716df922f17aaa1db0",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "andrew.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xfd90fe1b240b827b2fbba28d56e1f6f8c5e4651b",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x588c7897c89715c6df59509cda34e009cc291520",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x390c576bcbe34608f11604ba260ca83cbb1a94e7",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x0a4b2413fc8f172633d8b146d0f3423049d84528",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "jsutker.eth",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xbb50a3664b3bdd850ee59f5306aa12c7045b40cf",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x58962589b2b6fa8c035853a0f7425476cd1c77b7",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x7138ded2909f815e1d1718788f2104d6ebed98bb",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xec9ce0500827efe1502b17d969cb9096d81130d6",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xa6dbfec2a1dbfa73742b6b811e5c6f7520eca3d4",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xc457e313a307b665ab771911962d08f5993fd1f8",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3b323b4eb779d25d974d3d8d27ea6221694b1d4a",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x7300b83ab15f5c81aa0c5b0a26a7a729a4a3b5df",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xa367dc900c60c3e20f1319d45b2dc3f239188d97",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x6021e138adf3a195e078e789955b3a6bf52775eb",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3aa02ca58fcf49511302cc2261f4d24361d6d55d",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x7e0eb7319415afc19690cf9642e80b0925468623",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x25af436ae45138587c5cee1b8fef655fff4f9944",
+      "targetDID": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "sourceNametag": "Unknown",
+      "targetNametag": "coopahtroopa.eth",
+      "operation": "Transfer",
+      "count": 1
+    }
+  ]
+}

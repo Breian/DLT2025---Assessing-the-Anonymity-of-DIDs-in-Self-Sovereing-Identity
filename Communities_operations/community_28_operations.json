@@ -1,0 +1,548 @@
+{
+  "28": [
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x39e419ba25196794b595b2a595ea8e527ddc9856",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: MultiSig",
+      "operation": "Confirm Transaction",
+      "count": 211
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x1b8e06e7133b89ea5a799bf2bf0221ae71959190",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Exec Transaction",
+      "count": 15
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x6ade31a6c3d6450d7292158737c6b93d1911b595",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xc05a59034f579aea9a93e9d9233b1fcdcc64f6da",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x99f3af8ddda862a1551871ea4ca7c8da89c51279",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x2a4ea8464bd2dac1ad4f841dcc7a8efb4d84a27d",
+      "targetDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "sourceNametag": "justbrendax.eth",
+      "targetNametag": "zemrose.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor Tributes: TRB Token",
+      "operation": "Transfer",
+      "count": 6
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x39e419ba25196794b595b2a595ea8e527ddc9856",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: MultiSig",
+      "operation": "Submit Transaction",
+      "count": 133
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "zemrose.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x1b8e06e7133b89ea5a799bf2bf0221ae71959190",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x3b0f3eaefaac9f8f7fde406919eceb5270fe0607",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Buy Treasury",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x4200000000000000000000000000000000000042",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer*",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xe94ff33c2db501a1b1b98082ec0a35bd0072c0cc",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x8a994c6f55be1fd2b4d0dc3b8f8f7d4e3a2da8f1",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Ampleforth: Governance Tally",
+      "operation": "Cast Vote",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x39e419ba25196794b595b2a595ea8e527ddc9856",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: MultiSig",
+      "operation": "Execute Transaction",
+      "count": 14
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x39e419ba25196794b595b2a595ea8e527ddc9856",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: MultiSig",
+      "operation": "Revoke Confirmation",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0e7cf3d5b77748dac973e51d71faccc997eb0d82",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xb2d6aaf0bca136c252ec94f0f06c2489f734675f",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "raynharr.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor Tributes: TRB Token",
+      "operation": "Migrate",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: TRB Token",
+      "operation": "Vote",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: TRB Token",
+      "operation": "Transfer",
+      "count": 48
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0cf703cce941cbe97d07b297dc240c9e3375fcbf",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0eba7fb288fe3c85fde077c8fb45ed944f2290d2",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: TRB Token",
+      "operation": "Withdraw Stake",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: TRB Token",
+      "operation": "Request Staking Withdraw",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xc840ba62aab90b8cd629649822f04300ef5d1963",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: TRB Token",
+      "operation": "Approve",
+      "count": 7
+    },
+    {
+      "sourceDID": "0x4ad2b251246aafc2f3bdf3b690de3bf906622c51",
+      "targetDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "sourceNametag": "mailchain.eth",
+      "targetNametag": "zemrose.eth",
+      "operation": "Transfer*",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x0d7effefdb084dfeb1621348c8c70cc4e871eba4",
+      "targetDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "sourceNametag": "themandalore.eth",
+      "targetNametag": "zemrose.eth",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x6bf87c4ab43793e54d5677433c383963af0ebf7d",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xc47d2339077f5ac117dd1b2953d5c54a0c0b89fa",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Fund",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xc3c12a9e63e466a3ba99e07f3ef1f38b8b81ae1b",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Withdraw Token",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xc3c12a9e63e466a3ba99e07f3ef1f38b8b81ae1b",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Cancel Order",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xc3c12a9e63e466a3ba99e07f3ef1f38b8b81ae1b",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Deposit Token",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: TRB Token",
+      "operation": "Submit Mining Solution",
+      "count": 2159
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x1ab74b52e3c99bff190d6579193b12fd67ece6b5",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Transfer",
+      "count": 2
+    },
+    {
+      "sourceDID": "0xa3726998256078ec6b7f3a90c1ab050f85512a1a",
+      "targetDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "sourceNametag": "Unknown",
+      "targetNametag": "zemrose.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0xe50931b4a05728426d3ada5a6fec17467ae5e8c5",
+      "targetDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "sourceNametag": "Unknown",
+      "targetNametag": "zemrose.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Tellor: TRB Token",
+      "operation": "Deposit Stake",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xf2740c75f221788cf78c716b953a7f1c769d49b9",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Withdraw",
+      "count": 7
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xb5c4c9bcf2e98507c45a7419f9b272ded88b5da3",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "List",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x3fddb864b6d7d67d24f0d9e8785b57cb2b2833a3",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x571181111d5e9c4d3ed9758fe464a7ed1add340c",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xcbd7b00620e1f4daca8edcd73e6c3dfc69f360bd",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Initiate",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x1ae18c69a8c22953d06c82d869986db65894ebf3",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x01e6a8af629cc06ff37755a61d9e7dd1135d8c6a",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Initiate",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xb5c4c9bcf2e98507c45a7419f9b272ded88b5da3",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Buy",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x0380aafc428d90edf8893337f5dc4825276ed700",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xea8261249bb7b99f6754410b059db561ac427692",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "List",
+      "count": 16
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xea8261249bb7b99f6754410b059db561ac427692",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Unlist",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x074993dee953f2706ae318e11622b3ee0b7850c3",
+      "targetDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "sourceNametag": "Unknown",
+      "targetNametag": "zemrose.eth",
+      "operation": "Transfer",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x21c39bdede8254a4cbb1d8cfd063395bc356310a",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x892d372af48dbd84204fb16f0991d672822b781f",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x63f87e7fe1ac1895f8d43d6bf7f2662a62b455ab",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Initiate",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xce971acf8b9b0ce67a8018c4af2094b02c22da43",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Deploy Contract",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xea8261249bb7b99f6754410b059db561ac427692",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Buy",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x3f010543d2df98e24142df6297779b25883ff737",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x907fffcbdc35fc045497bf6c989b93293d02450b",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x67dc8d2392e70740a0a4f1e36c856c51a1a14f92",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x88df13812cb4044590784a548950d702f801d833",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x62bdd4d10a6c8500438089e6c5d047d0c9a0e9e2",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x9ed90006fc7c8bea93bdde6e411767e10a0d9023",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xe33325ab751edb80cf1c0f00768883484505852d",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Initiate",
+      "count": 3
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x8ff7e9f04fed4a6d7184962c6c44d2e701c2fb8a",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Deploy Contract",
+      "count": 4
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x982c9a09aa5ece2fc91e2b22276d0426938bc0b4",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0x18cbf3027816d045aac9698b0902fde036078197",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Approve",
+      "count": 1
+    },
+    {
+      "sourceDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "targetDID": "0xd33615c5ea5d703f06d237f6c56ff2400b564c77",
+      "sourceNametag": "zemrose.eth",
+      "targetNametag": "Unknown",
+      "operation": "Request Membership",
+      "count": 2
+    },
+    {
+      "sourceDID": "0x140397733a4fa26b4974e3e85f094f55bf30a740",
+      "targetDID": "0x3564e17d5f6b7c9a3c6bd6248bf7b3eeb4927e50",
+      "sourceNametag": "Unknown",
+      "targetNametag": "zemrose.eth",
+      "operation": "Transfer",
+      "count": 1
+    }
+  ]
+}

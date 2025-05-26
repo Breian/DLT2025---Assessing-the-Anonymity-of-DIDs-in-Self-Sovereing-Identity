@@ -1,0 +1,12 @@
+{
+  "15": [
+    {
+      "sourceDID": "from",
+      "targetDID": "to",
+      "sourceNametag": "Unknown",
+      "targetNametag": "Unknown",
+      "operation": "Method",
+      "count": 2881
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+    "0": {
+        "density": 0.16666666666666666,
+        "assortativity": -1.0,
+        "clustering": 0.0
+    },
+    "1": {
+        "density": 0.000988515873483842,
+        "assortativity": -0.4972931118227115,
+        "clustering": 3.8346432708766416e-05
+    },
+    "10": {
+        "density": 0.0071790855523234135,
+        "assortativity": -0.5736917255739696,
+        "clustering": 0.00030550874177653594
+    },
+    "11": {
+        "density": 0.0009270120877907467,
+        "assortativity": -0.42239505297961544,
+        "clustering": 4.767853398300571e-05
+    },
+    "12": {
+        "density": 0.04081632653061224,
+        "assortativity": -0.98,
+        "clustering": 0.0
+    },
+    "13": {
+        "density": 0.0005252631004509836,
+        "assortativity": -0.5453084249718806,
+        "clustering": 2.5714879990977e-06
+    },
+    "14": {
+        "density": 0.0017898323281788353,
+        "assortativity": -0.6571937681511971,
+        "clustering": 0.000751067029928335
+    },
+    "16": {
+        "density": 0.0013035074738896395,
+        "assortativity": -0.719625149087979,
+        "clustering": 0.00019863193945470305
+    },
+    "17": {
+        "density": 0.027777777777777776,
+        "assortativity": -0.9863013698630135,
+        "clustering": 0.0
+    },
+    "18": {
+        "density": 0.007913855734302025,
+        "assortativity": -0.6155894393568639,
+        "clustering": 0.0016187268680309041
+    },
+    "19": {
+        "density": 0.04081632653061224,
+        "assortativity": -0.98,
+        "clustering": 0.0
+    },
+    "2": {
+        "density": 0.0020603227778722417,
+        "assortativity": -0.6418591309732422,
+        "clustering": 5.574820418743863e-05
+    },
+    "20": {
+        "density": 0.045454545454545456,
+        "assortativity": -0.9777777777777777,
+        "clustering": 0.0
+    },
+    "21": {
+        "density": 0.007323173719089244,
+        "assortativity": -0.8193389604065814,
+        "clustering": 0.0
+    },
+    "22": {
+        "density": 0.002811308087417228,
+        "assortativity": -0.7960845341093884,
+        "clustering": 0.0042951076883501055
+    },
+    "23": {
+        "density": 0.07407407407407407,
+        "assortativity": -1.0,
+        "clustering": 0.0
+    },
+    "24": {
+        "density": 0.0625,
+        "assortativity": -0.9696969696969698,
+        "clustering": 0.0
+    },
+    "25": {
+        "density": 0.05405405405405406,
+        "assortativity": -0.9736842105263158,
+        "clustering": 0.0
+    },
+    "26": {
+        "density": 0.00819644931143189,
+        "assortativity": -0.8403744643804965,
+        "clustering": 0.0
+    },
+    "27": {
+        "density": 0.03508771929824561,
+        "assortativity": -0.9827586206896554,
+        "clustering": 0.0
+    },
+    "28": {
+        "density": 0.0392156862745098,
+        "assortativity": -0.9807692307692306,
+        "clustering": 0.0
+    },
+    "29": {
+        "density": 0.012903225806451613,
+        "assortativity": -1.0,
+        "clustering": 0.0
+    },
+    "3": {
+        "density": 0.005736688863904984,
+        "assortativity": -0.7143388439418926,
+        "clustering": 0.0
+    },
+    "30": {
+        "density": 0.041666666666666664,
+        "assortativity": -1.0,
+        "clustering": 0.0
+    },
+    "4": {
+        "density": 0.000686986156242206,
+        "assortativity": -0.6290851614730211,
+        "clustering": 0.0001848158709066053
+    },
+    "5": {
+        "density": 0.00131896452167782,
+        "assortativity": -0.7566654590602699,
+        "clustering": 3.127997890064583e-05
+    },
+    "6": {
+        "density": 0.0027049185836307064,
+        "assortativity": -0.7327608496530809,
+        "clustering": 0.0
+    },
+    "7": {
+        "density": 0.0012150609667005753,
+        "assortativity": -0.8368877036114725,
+        "clustering": 0.0
+    },
+    "8": {
+        "density": 0.0014798296665025246,
+        "assortativity": -0.6171869001585303,
+        "clustering": 0.0
+    },
+    "9": {
+        "density": 0.0013053467000835421,
+        "assortativity": -0.277262232999049,
+        "clustering": 6.720798719709817e-05
+    }
+}
